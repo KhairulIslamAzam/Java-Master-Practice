@@ -1,0 +1,4 @@
+azam 10
+khairul 30
+mizan 30
+kamrul 40

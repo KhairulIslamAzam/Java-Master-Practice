@@ -1,0 +1,14 @@
+sat sun wed
+==>feedback
+aprearence keymap for keyboard help
+Prime number
+Fibonacci Series
+Asteric piramyd
+
+public - Accessible from all on source scope
+private - Only that class
+default - Only that package
+protected - Package + subclass
+
+http://bit.ly/pstypeconversion
+
